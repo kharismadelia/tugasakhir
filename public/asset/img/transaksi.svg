@@ -1,0 +1,10 @@
+<svg id="round-swap_horiz-24px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.159" y1="0.108" x2="0.9" y2="0.856" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2b6af0"/>
+      <stop offset="1" stop-color="#0a49ac"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_3733" data-name="Path 3733" d="M0,0H24V24H0Z" fill="none"/>
+  <path id="Path_3734" data-name="Path 3734" d="M6.14,11.86,3.36,14.65a.513.513,0,0,0,0,.71l2.78,2.79a.5.5,0,0,0,.85-.35V16H13a1,1,0,0,0,0-2H6.99V12.21A.5.5,0,0,0,6.14,11.86ZM20.65,8.65,17.87,5.86a.5.5,0,0,0-.85.35V8H11a1,1,0,0,0,0,2h6.01v1.79a.5.5,0,0,0,.85.35l2.78-2.79a.492.492,0,0,0,.01-.7Z" fill="url(#linear-gradient)"/>
+</svg>
